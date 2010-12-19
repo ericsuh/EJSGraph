@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8EAC28DF12BDDBB800FC92EB /* EJSUndirectedGraph.h in Headers */ = {isa = PBXBuildFile; fileRef = 8EAC28DB12BDDBB800FC92EB /* EJSUndirectedGraph.h */; };
+		8EAC28DF12BDDBB800FC92EB /* EJSUndirectedGraph.h in Headers */ = {isa = PBXBuildFile; fileRef = 8EAC28DB12BDDBB800FC92EB /* EJSUndirectedGraph.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8EAC28E012BDDBB800FC92EB /* EJSUndirectedGraph.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EAC28DC12BDDBB800FC92EB /* EJSUndirectedGraph.m */; };
 		8EAC28E112BDDBB800FC92EB /* EJSGraph.h in Headers */ = {isa = PBXBuildFile; fileRef = 8EAC28DD12BDDBB800FC92EB /* EJSGraph.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8EAC28E212BDDBB800FC92EB /* EJSGraph.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EAC28DE12BDDBB800FC92EB /* EJSGraph.m */; };
